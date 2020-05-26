@@ -1,0 +1,57 @@
+2020-05-20 11:30:56,142 : INFO : test_selpython : getting all products name
+2020-05-20 11:30:57,700 : INFO : test_selpython : [<selenium.webdriver.remote.webelement.WebElement (session="1bc5116c70c479e734174666edb938a1", element="31fb9383-7c2b-4e60-9752-82468a7ea460")>, <selenium.webdriver.remote.webelement.WebElement (session="1bc5116c70c479e734174666edb938a1", element="00da1667-d72c-432c-9b46-2e1097cae580")>, <selenium.webdriver.remote.webelement.WebElement (session="1bc5116c70c479e734174666edb938a1", element="a82b6f47-7ec3-4b09-bdfe-1c7ccc8582ef")>, <selenium.webdriver.remote.webelement.WebElement (session="1bc5116c70c479e734174666edb938a1", element="f8bdbb71-0e4c-4718-8cbe-0dc93d2679e5")>]
+2020-05-20 11:30:57,758 : INFO : test_selpython : iphone X
+2020-05-20 11:30:57,783 : INFO : test_selpython : Samsung Note 8
+2020-05-20 11:30:57,807 : INFO : test_selpython : Nokia Edge
+2020-05-20 11:30:57,830 : INFO : test_selpython : Blackberry
+2020-05-20 11:30:58,204 : INFO : test_selpython : entering the country name as india
+2020-05-20 11:31:03,826 : INFO : test_selpython : Success msg printed as×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-20 11:37:36,461 : INFO : test_selpython : getting all products name
+2020-05-20 11:37:38,135 : INFO : test_selpython : [<selenium.webdriver.remote.webelement.WebElement (session="e0898654cb2353d80ddba632653eade7", element="3aec993c-8e78-4ce2-89dc-4874588467fe")>, <selenium.webdriver.remote.webelement.WebElement (session="e0898654cb2353d80ddba632653eade7", element="dd167909-a19a-4b4e-8334-2233b13b22bc")>, <selenium.webdriver.remote.webelement.WebElement (session="e0898654cb2353d80ddba632653eade7", element="7044e431-8664-49b8-9396-a7d9b49dd30d")>, <selenium.webdriver.remote.webelement.WebElement (session="e0898654cb2353d80ddba632653eade7", element="e6a37c75-2e9d-4b24-837a-73b765f687d2")>]
+2020-05-20 11:37:38,164 : INFO : test_selpython : iphone X
+2020-05-20 11:37:38,191 : INFO : test_selpython : Samsung Note 8
+2020-05-20 11:37:38,216 : INFO : test_selpython : Nokia Edge
+2020-05-20 11:37:38,240 : INFO : test_selpython : Blackberry
+2020-05-20 11:37:38,538 : INFO : test_selpython : entering the country name as india
+2020-05-20 11:37:44,184 : INFO : test_selpython : Success msg printed as×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-20 11:37:49,106 : INFO : test_homepage : Name isLiby
+2020-05-20 11:37:50,325 : INFO : test_homepage : Name isRahul
+2020-05-20 11:37:50,325 : INFO : test_homepage : Name isRahul
+2020-05-20 11:44:35,202 : INFO : test_selpython : getting all products name
+2020-05-20 11:44:36,650 : INFO : test_selpython : [<selenium.webdriver.remote.webelement.WebElement (session="51fc46aa6b2b53a5b1a6931ef901d899", element="1c551e93-2623-4500-9aca-39488dc19d02")>, <selenium.webdriver.remote.webelement.WebElement (session="51fc46aa6b2b53a5b1a6931ef901d899", element="fca1c9d2-3641-42fe-a59a-7ac619c3903a")>, <selenium.webdriver.remote.webelement.WebElement (session="51fc46aa6b2b53a5b1a6931ef901d899", element="9e65243a-9e46-45f9-9165-bcb040a1a42f")>, <selenium.webdriver.remote.webelement.WebElement (session="51fc46aa6b2b53a5b1a6931ef901d899", element="0477636a-f176-4a5e-905a-d6a2328940a8")>]
+2020-05-20 11:44:36,682 : INFO : test_selpython : iphone X
+2020-05-20 11:44:36,710 : INFO : test_selpython : Samsung Note 8
+2020-05-20 11:44:36,735 : INFO : test_selpython : Nokia Edge
+2020-05-20 11:44:36,760 : INFO : test_selpython : Blackberry
+2020-05-20 11:44:37,079 : INFO : test_selpython : entering the country name as india
+2020-05-20 11:44:42,866 : INFO : test_selpython : Success msg printed as×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-20 11:44:47,654 : INFO : test_homepage : Name isLiby
+2020-05-20 11:44:48,802 : INFO : test_homepage : Name isRahul
+2020-05-20 11:44:48,802 : INFO : test_homepage : Name isRahul
+2020-05-20 11:50:28,712 : INFO : test_selpython : getting all products name
+2020-05-20 11:50:30,410 : INFO : test_selpython : [<selenium.webdriver.remote.webelement.WebElement (session="2d895dd516525a6cb2581ca9a76d6c80", element="dddc2e18-9c1f-4368-a37c-c0fc1e13bc37")>, <selenium.webdriver.remote.webelement.WebElement (session="2d895dd516525a6cb2581ca9a76d6c80", element="8918bea3-a339-478b-962b-a5815a60cc77")>, <selenium.webdriver.remote.webelement.WebElement (session="2d895dd516525a6cb2581ca9a76d6c80", element="b9396f77-e536-47c3-9435-fe9c8dcb627e")>, <selenium.webdriver.remote.webelement.WebElement (session="2d895dd516525a6cb2581ca9a76d6c80", element="21b1cce9-6ab4-46ef-8796-f9c0d16a8ffc")>]
+2020-05-20 11:50:30,446 : INFO : test_selpython : iphone X
+2020-05-20 11:50:30,482 : INFO : test_selpython : Samsung Note 8
+2020-05-20 11:50:30,514 : INFO : test_selpython : Nokia Edge
+2020-05-20 11:50:30,538 : INFO : test_selpython : Blackberry
+2020-05-20 11:50:30,814 : INFO : test_selpython : entering the country name as india
+2020-05-20 11:50:36,410 : INFO : test_selpython : Success msg printed as×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-20 11:50:41,652 : INFO : test_homepage : Name isLiby
+2020-05-20 11:50:42,854 : INFO : test_homepage : Name isRahul
+2020-05-20 11:50:42,854 : INFO : test_homepage : Name isRahul
+2020-05-20 11:51:51,282 : INFO : test_selpython : getting all products name
+2020-05-20 11:51:52,779 : INFO : test_selpython : [<selenium.webdriver.remote.webelement.WebElement (session="34448e4ec710db1be000d314845df930", element="e4aa9fd1-4e74-46a3-b7ac-283be2352d96")>, <selenium.webdriver.remote.webelement.WebElement (session="34448e4ec710db1be000d314845df930", element="0d821629-7691-4ad9-8349-6a1ad5d5dfd0")>, <selenium.webdriver.remote.webelement.WebElement (session="34448e4ec710db1be000d314845df930", element="45cce91e-0faa-45b4-97eb-d1136b35971a")>, <selenium.webdriver.remote.webelement.WebElement (session="34448e4ec710db1be000d314845df930", element="7a13c722-a345-4748-a6d1-dc39e9cfcbb4")>]
+2020-05-20 11:51:52,811 : INFO : test_selpython : iphone X
+2020-05-20 11:51:52,838 : INFO : test_selpython : Samsung Note 8
+2020-05-20 11:51:52,864 : INFO : test_selpython : Nokia Edge
+2020-05-20 11:51:52,888 : INFO : test_selpython : Blackberry
+2020-05-20 11:51:53,172 : INFO : test_selpython : entering the country name as india
+2020-05-20 11:51:58,812 : INFO : test_selpython : Success msg printed as×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-20 11:52:04,122 : INFO : test_homepage : Name isLiby
+2020-05-20 11:52:05,251 : INFO : test_homepage : Name isRahul
+2020-05-20 11:52:05,251 : INFO : test_homepage : Name isRahul
