@@ -34,3 +34,9 @@ class ConfirmPage:
 
     def success_text3(self):
         return self.driver.find_element(*ConfirmPage.sucess_msg)
+
+    def success_text4(self):
+        return self.driver.find_element(*ConfirmPage.sucess_msg)
+
+    def success_text5(self):
+        return self.driver.find_element(*ConfirmPage.sucess_msg)

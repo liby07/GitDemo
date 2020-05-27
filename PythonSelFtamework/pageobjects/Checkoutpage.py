@@ -38,3 +38,7 @@ class CheckoutPage:
         self.driver.find_element(*CheckoutPage.checkoutbutton).click()
         Confirmpage = ConfirmPage(self.driver)
         return Confirmpage
+    def checkout_click4(self):
+        self.driver.find_element(*CheckoutPage.checkoutbutton).click()
+        Confirmpage = ConfirmPage(self.driver)
+        return Confirmpage
