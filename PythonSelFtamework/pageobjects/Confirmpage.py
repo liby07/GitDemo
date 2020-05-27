@@ -29,5 +29,8 @@ class ConfirmPage:
     def submit_click(self):
         return self.driver.find_element(*ConfirmPage.submit)
 
-    def success_text(self):
+    def success_text2(self):
+        return self.driver.find_element(*ConfirmPage.sucess_msg)
+
+    def success_text3(self):
         return self.driver.find_element(*ConfirmPage.sucess_msg)
